@@ -1,5 +1,3 @@
-Here is a draft README.md file for the Contact Book repository:
-
 Contact Book
 This is a simple contact book application built with React.
 
